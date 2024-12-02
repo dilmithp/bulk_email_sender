@@ -1,0 +1,2 @@
+2024-12-02 18:43:17,598 - ERROR: Failed to send email to dilmithp@hotmail.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 98e67ed59e1d1-2ee67e1b1bfsm5653803a91.52 - gsmtp')
+2024-12-02 18:43:21,076 - ERROR: Failed to send email to dilmithsemal@gmail.com: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d9443c01a7336-2153bad242dsm61939375ad.229 - gsmtp')
