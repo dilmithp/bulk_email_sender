@@ -21,7 +21,7 @@ A Python-based bulk email sending application with a user-friendly GUI, personal
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/bulk-email-sender.git
+git clone https://github.com/dilmithp/bulk_email_sender
 cd bulk-email-sender
 ```
 
